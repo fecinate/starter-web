@@ -11,3 +11,7 @@ Sample website with plenty of files for demos. This is for demo only, Please do 
 Added some copyrite notice
 
 ## How to contribute
+
+Sam Neal
+Jerry Marry
+Bill Nelson
