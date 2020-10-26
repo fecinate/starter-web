@@ -12,12 +12,3 @@ Added some copyrite notice
 
 ## How to contribute
 
-<<<<<<< HEAD
-Sam Neal
-Jerry Marry
-Bill Nelson
-=======
-Tom Peters
-Mike Johnson
-Larry Smith
->>>>>>> edit-readme
