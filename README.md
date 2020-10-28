@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. Adding a line for rebasing example , then add changes from my feature branch
+This repository is for showing how Git and GitHub work.
+Adding a line to demo Stash feature
 
 ## Purpose
 
