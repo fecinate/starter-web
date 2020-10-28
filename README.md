@@ -8,7 +8,7 @@ Sample website with plenty of files for demos. This is for demo only, Please do 
 
 ## Copyright
 
-Added some copyrite notice
+Added some copyrite notice. All rights reserved.
 
 ## How to contribute
 Tom
